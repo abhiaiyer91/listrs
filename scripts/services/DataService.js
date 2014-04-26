@@ -14,7 +14,7 @@ app.factory('DataService', function() {
     // shopping cart with PayPal, you have to create a merchant account with 
     // PayPal. You can do that here:
     // https://www.paypal.com/webapps/mpp/merchant
-    myCart.addCheckoutParameters("PayPal", "paypaluser@youremail.com");
+    myCart.addCheckoutParameters("PayPal", "abhiaiyer91@gmail.com");
 
 
     // enable Stripe checkout
